@@ -7,11 +7,12 @@
 
 ## Activity button
 - Opens a view of tasks.
-- On task completion, user is able to claim reward points.
-- Unclaimed rewards can be seen on Main Menu notification next to Activity button.
-- If task reward bar is full, user cannot claim further rewards.
+- On task completion, the user is able to claim reward points.
+- Unclaimed rewards can be seen on the Main Menu notification next to the Activity button.
+- If the task reward bar is full, the user cannot claim further rewards.
+
 
 ## Purchase / Shop / Store button
 - Opens a pop-up panel.
-- User can obtain various amounts of 'Bucks'.
-- Total 'Buck' amount can be seen on the button.
+- The user can obtain various amounts of 'Bucks'.
+- The total 'Buck' amount can be seen on the button.
