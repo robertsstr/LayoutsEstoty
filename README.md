@@ -9,6 +9,7 @@
 - Opens a view of tasks.
 - On task completion, user is able to claim reward points.
 - Unclaimed rewards can be seen on Main Menu notification next to Activity button.
+- If task reward bar is full, cannot claim further rewards.
 
 ## Purchase / Shop / Store button
 - Opens a pop-up panel.
